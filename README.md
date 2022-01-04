@@ -1,5 +1,7 @@
 <h1>Password Generator App</h1>
 
+https://harikamadamanchi.github.io/Password-Generator/index.html
+
 <p>Password Generator App written in HTML, CSS, and JavaScript .</p>
 
 ### Use of the Project:
